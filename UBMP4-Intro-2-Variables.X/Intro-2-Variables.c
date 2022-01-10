@@ -78,6 +78,7 @@ int main(void)
  *    What is the the maximum value an 8-bit variable can store?
  *    What are some benefits and drawbacks of using 8-bit variables in an 8-bit
  *    microcontroller?
+ *    The microcontroller will run faster to process it.
  * 
  * 2. The constant 'maxCount' is defined using a declaration similar to that
  *    used for the SW2Count variable, but with the 'const' prefix added in the
